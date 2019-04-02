@@ -1,0 +1,79 @@
+body {
+  font-family: Lato;
+  letter-spacing: 2px;
+}
+
+p {
+  font-family: Raleway;
+}
+
+
+.upload-btn {
+  color: white !important;
+  border: #f16c7a 3px solid;
+  background: #f16c7a;
+  padding: 8px 30px;
+  border-radius: 5px;
+}
+
+a.upload-btn {
+  text-decoration: none;
+}
+
+a.upload-btn:hover {
+  background: transparent;
+  color: #f16c7a !important;
+}
+
+.hero {
+font-size: 130px;
+letter-spacing: 10px;
+}
+.hero-heading {
+  font-size: 30px;
+  letter-spacing: 4px;
+}
+
+.sub-title {
+  padding-top: 4px;
+  font-weight: bold;
+  color: #f16c7a;
+}
+
+.caption-heading {
+  font-weight: lighter;
+  line-height: 2.5;
+
+}
+
+.number-text{
+
+  font-size: 100px;
+  font-family: 'Baloo Chettan', cursive;
+  color: #f16c7a;
+}
+
+.work-heading {
+  font-weight: bold;
+  color: #f16c7a;
+}
+
+.work-sub {
+  font-weight: lighter;
+  line-height: 2;
+  color: #2e3235;
+}
+
+.block{
+  font-weight: 600;
+  font-size: 87px;
+  color: #f98894;
+}
+
+.navbar-light {
+  background: transparent !important;
+}
+
+.navbar {
+  padding-bottom: 60px;
+}
